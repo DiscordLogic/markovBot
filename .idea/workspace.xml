@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e44e4e20-260b-4dbc-8beb-dcf4021953c6" name="Default Changelist" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/chaincode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaincode.py" beforeDir="false" afterPath="$PROJECT_DIR$/chaincode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <list id="81b950da-c192-4f01-8d43-bbcd30aada72" name="Changes by HP" comment="">
@@ -13,6 +14,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
@@ -28,14 +36,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/main.py">
       <ranges>
-        <range start1="1" end1="1" start2="1" end2="61" changelist="81b950da-c192-4f01-8d43-bbcd30aada72" />
-        <range start1="3" end1="3" start2="63" end2="70" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
-        <range start1="12" end1="14" start2="79" end2="113" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
-        <range start1="15" end1="20" start2="114" end2="114" changelist="81b950da-c192-4f01-8d43-bbcd30aada72" />
-        <range start1="21" end1="24" start2="115" end2="116" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="1" end1="7" start2="1" end2="1" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="11" end1="20" start2="5" end2="7" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="62" end1="69" start2="49" end2="49" changelist="81b950da-c192-4f01-8d43-bbcd30aada72" />
+        <range start1="71" end1="71" start2="51" end2="58" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="72" end1="72" start2="59" end2="60" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="77" end1="77" start2="65" end2="90" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="80" end1="81" start2="93" end2="143" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
+        <range start1="82" end1="116" start2="144" end2="144" changelist="81b950da-c192-4f01-8d43-bbcd30aada72" />
+        <range start1="117" end1="118" start2="145" end2="146" changelist="e44e4e20-260b-4dbc-8beb-dcf4021953c6" />
       </ranges>
     </file>
   </component>
@@ -47,6 +67,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -92,7 +113,7 @@
       <workItem from="1622763772774" duration="1044000" />
       <workItem from="1622764830548" duration="6041000" />
       <workItem from="1622772892921" duration="965000" />
-      <workItem from="1622773993060" duration="1131000" />
+      <workItem from="1622773993060" duration="10057000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1622763974943</created>
@@ -123,18 +144,7 @@
     <MESSAGE value="First commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/chaincode.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/markovBot$main.coverage" NAME="main Coverage Results" MODIFIED="1622769210467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/markovBot$main.coverage" NAME="main Coverage Results" MODIFIED="1622783915432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
