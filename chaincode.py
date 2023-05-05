@@ -15,6 +15,3 @@ def build_chain(array):
     print("THIS IS THE CODE" + "\n\n" + text)
     text_model = markovify.Text(text)
     return text_model.make_short_sentence(320)
-
-
-
